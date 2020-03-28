@@ -14,10 +14,3 @@ print(our_age)
 grocery_list = "apple,banana,orange"
 
 print(grocery_list)
-
-""" Learning Class """
-class Dappo(object):
-    pass
-
-def __init__(self, name, age):
-    pass
